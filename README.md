@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 
-![](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight)
+![](https://github-readme-quotes.herokuapp.com/quote?theme=dracula)
