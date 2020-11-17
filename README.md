@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 
 
 
-
-![](https://github-readme-quotes.herokuapp.com/quote?theme=monokai)
+[![github](https://github-readme-quotes.herokuapp.com/quote)](https://github-readme-quotes.herokuapp.com/quote)
